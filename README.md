@@ -32,7 +32,7 @@ The **HR Analytics Dashboard** solves these challenges by:
 
 ## 🛠️ Tools & Technologies
 - **Power BI** – for building interactive dashboards  
-- **Excel / SQL** – for data cleaning and preparation  
+- **Excel** – for data cleaning and preparation  
 
 ---
 
